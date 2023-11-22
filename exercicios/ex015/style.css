@@ -1,0 +1,23 @@
+@charset "UTF-8";
+
+body {
+    background-color: black;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+
+h1 {
+    color: rgb(132, 0, 255);
+}
+
+h2 {
+    color: rgb(151, 118, 182);
+}
+
+p {
+    color: aliceblue;
+}
+
+.botao {
+    text-align: center;
+    height: auto;
+}
