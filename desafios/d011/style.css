@@ -17,14 +17,15 @@
 header {
     background-color: black;
     color: white;
-    padding: 40px;
+    padding: 60px;
     margin: -8px;
 }
 header h1 {
     font-family: var(--fonte2);
-    font-size: 80px;
+    font-size: 120px;
     margin: auto;
     text-align: center;
+    font-variant: small-caps;
 }
 header p {
     text-align: center;
@@ -42,6 +43,7 @@ header p {
 .poesia {
     font-family: var(--fonte3);
     font-size: 40px;
+    padding: 20px;
 }
 
 .joaninha {
@@ -57,6 +59,7 @@ header p {
     font-family: var(--fonte3);
     font-size: 40px;
     color: white;
+    padding: 20px;
 }
 
 .brancogrande {
