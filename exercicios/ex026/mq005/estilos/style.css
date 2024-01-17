@@ -53,6 +53,7 @@ border-top: 2px solid gray;
 
 menu > ul > li > a:hover {
     background-color: gray;
+    transition: 0.5s;
 }
 
 main {
